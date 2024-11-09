@@ -26,3 +26,4 @@ Python development learning: прикладной python
 - Pygame
 - VPython
 - VTK
+- Plotly 
