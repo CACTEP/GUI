@@ -27,6 +27,7 @@ Python development learning: прикладной python
 - VPython
 - VTK
 - Plotly 
+
 Используемые:
 - flet
 - matplotlib
